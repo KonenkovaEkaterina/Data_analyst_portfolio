@@ -21,7 +21,7 @@
 Задача №2.
 Собрать визуализации основных бизнес-показателей. Исследовать данные о пользователях и их поведении.
 
-> <a href="https://github.com/KonenkovaEkaterina/Data_analyst_portfolio/blob/main/Project%201%20Excel.xlsb"></a>
+<a href="https://github.com/KonenkovaEkaterina/Data_analyst_portfolio/blob/main/Project%201%20Excel.xlsb">Ссылка</a>
 
 *Проект 2: Калькулятор юнит-экономики онлайн-школы* 
 
