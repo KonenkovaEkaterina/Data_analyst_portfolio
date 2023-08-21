@@ -33,7 +33,7 @@
 Задача №2.
 Пересчитать план найма преподавателей.
 
-<a href="https://github.com/KonenkovaEkaterina/Data_analyst_portfolio/blob/main/Project%202%20Excel.xlsx">
+> <a href="https://github.com/KonenkovaEkaterina/Data_analyst_portfolio/blob/main/Project%202%20Excel.xlsx">Ссылка на проект</a>
 
 *Проект 3: Моделирование изменения балансов студентов* 
 
@@ -43,7 +43,7 @@
 
 Задача №2. Как это количество менялось под влиянием транзакций (оплат, начислений, корректирующих списаний) и уроков (списаний с баланса по мере прохождения уроков). 
 
-<a href="https://github.com/KonenkovaEkaterina/Data_analyst_portfolio/blob/main/Project%203%20SQL.xlsx">
+> <a href="https://github.com/KonenkovaEkaterina/Data_analyst_portfolio/blob/main/Project%203%20SQL.xlsx">Ссылка на проект</a>
 
 ## Контактная информация
 Email: [konenkovaev@yahoo.com]
